@@ -39,7 +39,7 @@ function Chefs() {
               <div className="row g-4">
                 {[
                   {
-                    img: "http://localhost:5173/src/assets/img/restaurant/chef-2.webp",
+                    img: "https://i.pinimg.com/736x/df/11/e1/df11e1c09a1b2377dc06a8fff5315d50.jpg",
                     alt: "Chef Asha Nair",
                     name: "Asha Nair",
                     role: "Pastry Chef",

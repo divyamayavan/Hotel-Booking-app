@@ -61,19 +61,19 @@ function Events() {
           <div className="row g-3">
             <div className="col-lg-8">
               <div className="main-image" data-aos="zoom-in" data-aos-delay="200">
-                <img src="/src/assets/img/restaurant/event-1.webp" alt="Wedding at Royal Lotus" className="img-fluid" />
+                <img src="http://localhost:5173/src/assets/img/restaurant/event-1.webp" alt="Wedding at Royal Lotus" className="img-fluid" />
               </div>
             </div>
             <div className="col-lg-4">
               <div className="row g-3">
                 <div className="col-lg-12 col-md-6">
                   <div className="gallery-item" data-aos="zoom-in" data-aos-delay="250">
-                    <img src="/src/assets/img/restaurant/event-5.webp" alt="Corporate Event" className="img-fluid" />
+                    <img src="http://localhost:5173/src/assets/img/restaurant/event-5.webp" alt="Corporate Event" className="img-fluid" />
                   </div>
                 </div>
                 <div className="col-lg-12 col-md-6">
                   <div className="gallery-item" data-aos="zoom-in" data-aos-delay="300">
-                    <img src="/src/assets/img/restaurant/event-7.webp" alt="Birthday Party" className="img-fluid" />
+                    <img src="http://localhost:5173/src/assets/img/restaurant/event-7.webp" alt="Birthday Party" className="img-fluid" />
                   </div>
                 </div>
               </div>
@@ -107,7 +107,7 @@ function Events() {
                 </div>
                 <div className="event-content">
                   <div className="event-image">
-                    <img src="/src/assets/img/restaurant/event-3.webp" alt="Monsoon Food Festival" className="img-fluid" />
+                    <img src="http://localhost:5173/src/assets/img/restaurant/event-3.webp" alt="Monsoon Food Festival" className="img-fluid" />
                   </div>
                   <div className="event-info">
                     <h4>Monsoon Food Festival</h4>
@@ -132,7 +132,7 @@ function Events() {
                 </div>
                 <div className="event-content">
                   <div className="event-image">
-                    <img src="/src/assets/img/restaurant/event-8.webp" alt="Independence Day Gala" className="img-fluid" />
+                    <img src="http://localhost:5173/src/assets/img/restaurant/event-8.webp" alt="Independence Day Gala" className="img-fluid" />
                   </div>
                   <div className="event-info">
                     <h4>Independence Day Gala</h4>

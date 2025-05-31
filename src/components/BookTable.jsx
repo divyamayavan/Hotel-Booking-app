@@ -44,7 +44,7 @@ function BookTable() {
           <div className="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div className="reservation-image">
               <img
-                src="/src/assets/img/restaurant/showcase-7.webp"
+                src="http://localhost:5173/src/assets/img/restaurant/showcase-7.webp"
                 alt="Restaurant interior"
                 className="img-fluid rounded"
               />

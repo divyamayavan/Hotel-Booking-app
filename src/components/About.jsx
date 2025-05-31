@@ -17,7 +17,7 @@ function About() {
                 <div className="row align-items-center">
                   <div className="col-auto">
                     <img
-                      src="/src/assets/img/restaurant/chef-1.webp"
+                      src="http://localhost:5173/src/assets/img/restaurant/chef-1.webp"
                       className="chef-avatar rounded-circle"
                       alt="Chef Arvind Kumar"
                     />
@@ -36,12 +36,12 @@ function About() {
           <div className="col-lg-6" data-aos="zoom-in" data-aos-delay="300">
             <div className="about-image-wrapper">
               <img
-                src="/src/assets/img/restaurant/showcase-4.webp"
+                src="http://localhost:5173/src/assets/img/restaurant/showcase-4.webp"
                 className="img-fluid main-image shadow"
                 alt="Hotel Interior"
               />
               <img
-                src="/src/assets/img/restaurant/showcase-2.webp"
+                src="http://localhost:5173/src/assets/img/restaurant/showcase-2.webp"
                 className="img-fluid accent-image shadow"
                 alt="Family Dining"
               />

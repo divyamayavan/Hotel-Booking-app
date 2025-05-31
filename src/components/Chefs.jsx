@@ -12,7 +12,7 @@ function Chefs() {
             <div className="chef-highlight" data-aos="fade-right" data-aos-delay="200">
               <figure className="chef-image">
                 <img
-                  src="/src/assets/img/restaurant/chef-1.webp"
+                  src="http://localhost:5173/src/assets/img/restaurant/chef-1.webp"
                   className="img-fluid"
                   alt="Executive Chef Arvind Kumar"
                 />
@@ -39,28 +39,28 @@ function Chefs() {
               <div className="row g-4">
                 {[
                   {
-                    img: "/src/assets/img/restaurant/chef-2.webp",
+                    img: "http://localhost:5173/src/assets/img/restaurant/chef-2.webp",
                     alt: "Chef Asha Nair",
                     name: "Asha Nair",
                     role: "Pastry Chef",
                     details: "Asha creates our signature desserts, from hot gulab jamuns to decadent chocolate brownies.",
                   },
                   {
-                    img: "/src/assets/img/restaurant/chef-3.webp",
+                    img: "http://localhost:5173/src/assets/img/restaurant/chef-3.webp",
                     alt: "Chef Manoj Pillai",
                     name: "Manoj Pillai",
                     role: "Tandoor Expert",
                     details: "Specialist in North Indian tandoor, his naans and kebabs are loved by guests of all ages.",
                   },
                   {
-                    img: "/src/assets/img/restaurant/chef-4.webp",
+                    img: "http://localhost:5173/src/assets/img/restaurant/chef-4.webp",
                     alt: "Chef Ritu Singh",
                     name: "Ritu Singh",
                     role: "Continental Specialist",
                     details: "Ritu adds a global touch to our menu—pasta, salads, and more for the cosmopolitan foodie!",
                   },
                   {
-                    img: "/src/assets/img/restaurant/chef-5.webp",
+                    img: "http://localhost:5173/src/assets/img/restaurant/chef-5.webp",
                     alt: "Chef Karthik Iyer",
                     name: "Karthik Iyer",
                     role: "Grill Master",

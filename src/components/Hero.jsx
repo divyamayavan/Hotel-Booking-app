@@ -52,7 +52,7 @@ function Hero() {
                 <div className="swiper-slide">
                   <div className="img-container">
                     <img
-                      src="/src/assets/img/restaurant/misc-square-1.webp"
+                      src="http://localhost:5173/src/assets/img/restaurant/misc-square-1.webp"
                       alt="Royal Lotus Lobby"
                     />
                   </div>
@@ -60,7 +60,7 @@ function Hero() {
                 <div className="swiper-slide">
                   <div className="img-container">
                     <img
-                      src="/src/assets/img/restaurant/misc-square-2.webp"
+                      src="https://localhost:5173/src/assets/img/restaurant/misc-square-2.webp"
                       alt="Banquet Celebration"
                     />
                   </div>
@@ -68,7 +68,7 @@ function Hero() {
                 <div className="swiper-slide">
                   <div className="img-container">
                     <img
-                      src="/src/assets/img/restaurant/misc-square-3.webp"
+                      src="https://localhost:5173/src/assets/img/restaurant/misc-square-3.webp"
                       alt="Signature Indian Cuisine"
                     />
                   </div>
